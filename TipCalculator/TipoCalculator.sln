@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoCalculator", "TipoCalculator\TipoCalculator.csproj", "{D3E190B7-1F1D-443E-B86F-EA78A1F8A7B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3E190B7-1F1D-443E-B86F-EA78A1F8A7B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E190B7-1F1D-443E-B86F-EA78A1F8A7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E190B7-1F1D-443E-B86F-EA78A1F8A7B8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D3E190B7-1F1D-443E-B86F-EA78A1F8A7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E190B7-1F1D-443E-B86F-EA78A1F8A7B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E190B7-1F1D-443E-B86F-EA78A1F8A7B8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8EEDFBD-4A3E-440F-893C-9E68558E3EB1}
+	EndGlobalSection
+EndGlobal
